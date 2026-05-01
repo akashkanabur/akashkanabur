@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me --
 I’m a self-taught Android & Java developer and I genuinely enjoy building things that are not just functional, but scalable and meaningful.
 
 Lately, I’ve been diving deeper into system design and architecture, exploring tools like Kafka for real-time systems, Docker for containerization, and AI agentic workflows. I’m really interested in how modern systems are built and how they scale in the real world.
